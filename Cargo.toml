@@ -1,0 +1,7 @@
+[package]
+name = "artific-obj-gen"
+version = "0.1.0"
+authors = ["Isaac Villalobos"]
+edition = "2018"
+
+[dependencies]
